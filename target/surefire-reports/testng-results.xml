@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-29T17:19:46 CDT" name="bankService.CustomerTest" finished-at="2020-06-29T17:19:46 CDT" duration-ms="29">
+    <groups>
+    </groups>
+    <test started-at="2020-06-29T17:19:46 CDT" name="Command line test" finished-at="2020-06-29T17:19:46 CDT" duration-ms="29">
+      <class name="bankService.CustomerTest">
+        <test-method signature="creatingCustomerWithValidData_StoresSpecifiedData()[pri:0, instance:bankService.CustomerTest@3c22fc4c]" started-at="2020-06-29T17:19:46 CDT" name="creatingCustomerWithValidData_StoresSpecifiedData" finished-at="2020-06-29T17:19:46 CDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingCustomerWithValidData_StoresSpecifiedData -->
+        <test-method signature="updatingCustomerDataWithDifferentValidValues_StoredNewValues()[pri:0, instance:bankService.CustomerTest@3c22fc4c]" started-at="2020-06-29T17:19:46 CDT" name="updatingCustomerDataWithDifferentValidValues_StoredNewValues" finished-at="2020-06-29T17:19:46 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatingCustomerDataWithDifferentValidValues_StoredNewValues -->
+      </class> <!-- bankService.CustomerTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- bankService.CustomerTest -->
+</testng-results>
